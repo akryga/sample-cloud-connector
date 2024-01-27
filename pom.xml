@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.bearhill.activiti</groupId>
-	<artifactId>sample-cloud-connector</artifactId>
+	<artifactId>sample-connector</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sample-cloud-connector</name>
+	<name>sample-connector</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<activiti-cloud-connectors.version>7.1.434</activiti-cloud-connectors.version>
